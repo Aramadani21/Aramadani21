@@ -1,5 +1,5 @@
-# 💫 About Me:
-Saya adalah seorang mahasiswa, pekerja, kreator dan mencoba keberuntungan di dunia IT
+# 👨‍💻⚡ About Me:
+Saya adalah seorang mahasiswa, pekerja Teknik, kreator dan mencoba keberuntungan di dunia IT
 
 
 ## 🌐 Socials:
