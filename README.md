@@ -10,6 +10,7 @@ Saya adalah seorang mahasiswa, pekerja Teknik, kreator dan mencoba keberuntungan
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Aramadani21&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aramadani21&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aramadani21&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
